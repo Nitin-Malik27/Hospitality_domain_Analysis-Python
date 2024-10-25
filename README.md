@@ -1,4 +1,4 @@
-# python_hospitality_domain
+
 # AtliQ Grands Hotel Chain - Data Analytics Project
 
 ## 📋 Project Objective:
