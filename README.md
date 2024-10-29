@@ -1,5 +1,5 @@
 
-# AtliQ Grands Hotel Chain - Data Analytics Project
+# AtliQ Grands Hotel Chain (Data Analytics using Python) Project
 
 ## 📋 Project Objective:
 The aim of this project was to **increase revenue** and generate **key insights** for the AtliQ Grands hotel chain, which operates in the following cities:
