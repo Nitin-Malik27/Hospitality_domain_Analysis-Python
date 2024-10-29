@@ -1,4 +1,3 @@
-
 # AtliQ Grands Hotel Chain (Data Analytics using Python) Project
 
 ## 📋 Project Objective:
